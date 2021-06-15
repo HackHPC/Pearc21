@@ -1,6 +1,6 @@
-## HackHPC@PEARC20 Event Site
+## HackHPC@PEARC21 Event Site
 
-This site will contain the latest information regarding the event to be held July 27th-30th.
+This site will contain the latest information regarding the event to be held July 8th-12th.
 
 <p align="center">
   <strong>Thank you to this years sponsors!</strong><br>
@@ -19,7 +19,8 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
   - [Organizing Committe Contact Information](#organizers-contact-information)
 
 ## Schedule of Events
-_Draft Updated as of 7/23/20_
+_Draft Updates In Progress
+
 
 - **Mentor Pre-event Prep call** 7/21/20 @ 11:00am(EST)/10:00am(CST)/8:00am(PST)
   - [Meeting Slides](pdfs/Mentor-HackHPC-Overview.pdf)
