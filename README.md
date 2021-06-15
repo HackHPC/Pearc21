@@ -3,12 +3,12 @@
 This site will contain the latest information regarding the event to be held July 8th-12th.
 
 <p align="center">
-  <strong>Thank you to this years sponsors!</strong><br>
-  <img src="images/HackHPC-PEARC20-Sponsors.png"><br>
+  <strong>Special thanks to this years sponsors!</strong><br>
   <a href="http://www.omnibond.com/">Omnibond</a> |
   <a href="http://www.intel.com">Intel</a> |
   <a href="https://cloud.google.com/">Google</a> |
   <a href="http://tacc.utexas.edu">TACC</a> |
+  <a href="https://www.globus.org/">Globus Online</a> |
   <a href="https://sciencegateways.org/">SGCI</a>
 </p>
 
@@ -19,41 +19,43 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
   - [Organizing Committe Contact Information](#organizers-contact-information)
 
 ## Schedule of Events
-_Draft Updates In Progress
+_Draft - Updates In Progress
 
 
-- **Mentor Pre-event Prep call** 7/21/20 @ 11:00am(EST)/10:00am(CST)/8:00am(PST)
-  - [Meeting Slides](pdfs/Mentor-HackHPC-Overview.pdf)
-  - [Meeting Video](https://youtu.be/ROAXB6DCkyQ)
-- **Pre-event Overview call** 7/23/20 @ 11:00am(EST)/10:00am(CST)/8:00am(PST)
-  - [Meeting Slides](pdfs/Student-HackHPC-Overview.pdf)
-  - [Meeting Video](https://youtu.be/x3frTEbp-ZA)
+- **Mentor Pre-event Training** 6/20/21 @ 9:00am(ET)/8:00am(CT)/6:00am(PT)
+  - [Prior Meeting Slides](pdfs/Mentor-HackHPC-Overview.pdf)
+  - [Prior Meeting Video](https://youtu.be/ROAXB6DCkyQ)
+- **Pre-Event Training (GitHub/Slack) ** 6/22/21 @ 10:30am(ET)/9:30am(CT)/7:00am(PT)
+  - [Prior Meeting Slides](pdfs/Student-HackHPC-Overview.pdf)
+  - [Prior Meeting Video](https://youtu.be/x3frTEbp-ZA)
+- **Pre-Event Training (Google Compute Cloud/CloudyCluster) ** 6/29/21 @ 10:30am(ET)/9:30am(CT)/7:00am(PT)
   - **Links and Resources Mentioned**
-     - For access to the _Google Cloud credits_ please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20]) , [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20]), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20])
-     - [delta-topology.org](delta-topology.org)
-     - [covid-19.tacc.utexas.edu/projections/](https://covid-19.tacc.utexas.edu/projections/)
+     - For access to the _Google Cloud credits_ please contact [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC21]), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC21])
      - [GitHub.com](https://github.com/)
      - [Previous HackHPC Projects](http://hackhpc.org/pasthacks)
 
 
 
 | Day | Time | Activities |
-|-----------|------------------------|----------------------------|
-| Monday (7/27) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) |  **Kickoff Meeting** [Slides](pdfs/HackHPC-Kickoff.pdf) <br> - Ethics <br> - Schedule <br> - Google Project Setup [Boyd Wilson](https://www.linkedin.com/in/boydwilson/)|
-| Monday (7/27) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  - Team Pointers and Announcements <br> - Active Hacking Picture (Individual) [Prize] - **Winner Lena** <br> - Intel Speaker [Tom Krueger](https://www.linkedin.com/in/tomkrueger1/) - [Slides](pdfs/Intel-AI-and-HPC-Resources-Slides.pdf) <br> - Project Introductions and Goals by the teams [Prize] - **Winner Team Charlies Angels** |
-| Tuesday (7/28) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) | - Status Checkpoint <br> - Lego@HackHPC Picture (Individual)  [Prize] - **Winner Lena**<br> - Cloudy Cluster Overview [Boyd Wilson](https://www.linkedin.com/in/boydwilson/)|
-| Tuesday (7/28) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) | - Status Checkpoint [Prize] - **Winner Team Amigos** <br> - Virtual Background Challenge (Individual) [Prize] - **Winner Daniel** |
-| Wednesday (7/29) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Final Presentations** <br> - People's Choice Award Opens - [Link](https://forms.gle/kL7GpGsbCzAX1hyE9) <br> - Post Survey - [Link](https://forms.gle/ebqrFSVVJZ39zBgW6) <br> - YouTube Live Stream [Link](https://youtu.be/Ma7jpQfscys) <br> **Team GitHub Links** <br> --[Team Delta](https://github.com/laandreagates/Delta) <br> --[Charlie's Angels](https://github.com/hectorsantiago5/pearc20_quickviz) <br> --[Vizpipeline 1](https://github.com/BranRitz/Pearc20VizPipeline) <br> --[Amigos](https://github.com/jchuahtacc/CloudHPCHackVizPiplineTeamA) |
-| Thursday (7/30) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) |  **Awards Ceremony**|
+|-----------|:------------------------:|----------------------------|
+| Thursday (6/8) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="_blank">Add to Calendar</a> |  **Kickoff Meeting** <br> • Dice-Breaker <br> • Ethics <br> • Schedule <br> • Google Project Setup <br> • Team Formation |
+| Friday (6/9) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="_blank">Add to Calendar</a> |  **Checkin** <br>  &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br>  &ensp; ‣ Team Theme song <br>  &ensp; ‣ Team Virtual background |
+|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="_blank">Add to Calendar</a> |  **Checkin**  |
+| Saturday (6/10) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="ics_files/SaturdayAM.ics">Add to Calendar</a> |  **Checkin** |
+|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="_blank">Add to Calendar</a> |  ~**Checkin**~ |
+| Sunday (6/11) | 12:30p(EST)<br>11:30a(CT)<br>9:30a(PT)<br> <a href="_blank">Add to Calendar</a> |  **Checkin** )  |
+|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="_blank">Add to Calendar</a> |  **Checkin** <br> • Final Presentation Reminders |
+| Monday (6/12) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="_blank">Add to Calendar</a> |  **Checkin** |
+|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="_blank">Add to Calendar</a> |  **Team Presentations and Awards Ceremony**) |
 
 ## Communication Platforms
 - Twitter: [twitter.com/ccloudhack](https://twitter.com/ccloudhack)
 - Slack: [cloudhpchack.slack.com](https://cloudhpchack.slack.com)
-- Zoom Session Links (Hackathon): [https://www.brella.io](https://www.brella.io)
+- Zoom Session Links (Hackathon): _TBD
 
 ## Deliverables
-**Posted to Slack "#pearc20-hackhq-general" Channel before Presentations**
-<br><i><font color='red'>Due Wednesday 7/29 by 6:00p(EST)/5:00p(CT)/3:00p(PT)</font></i>
+**Posted to Slack "#pearc21-hackhq-general" Channel before Presentations**
+<br><i><font color='red'>Due Monday 6/12 by 6:00p(ET)/5:00p(CT)/3:00p(PT)</font></i>
 <br>_*NOTE: If not posted by due date and time 20pt automatic deduction from final judging score._
 
 **Github Repository Link Posted to Slack #pearc20-hackhq-general Channel**
@@ -79,19 +81,15 @@ _Draft Updates In Progress
 - [Previous HackHPC Projects](http://hackhpc.org/pasthacks)
 - Google Cloud Platform Training
   - [https://cloud.google.com/training](https://cloud.google.com/training)
-  - For access to the Google Cloud credits please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20]) , [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20]), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20])
+  - For access to the Google Cloud credits please contact [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20]), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20])
 
 ## Mentor Contact Information
 
 | Name | Affiliation | Contact Information
 |-----------------------|--------------|----------------------------|
-| Boyd Wilson | [Omnibond]( http://www.omnibond.com/)| [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[HackHPC-PEARC20]) <br>[![LinkedIn](linkedinicon.jpeg)]( https://www.linkedin.com/in/boydwilson/)[![Twitter](twittericon.png)](https://twitter.com/boydwilson)[![Github](githubicon.png)](https://github.com/omnibond) |
-| Brandi Kuritz | [TACC](http://www.tacc.utexas.edu/) | [bkuritz@tacc.utexas.edu](mailto:bkuritz@tacc.utexas.edu?subject=[HackHPC-PEARC20]) <br>[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/brandi-kuritz-74a47673/) |
 | Charlie Dey | [TACC](http://www.tacc.utexas.edu/) | [charlie@tacc.utexas.edu](mailto:charlie@tacc.utexas.edu?subject=[HackHPC-PEARC20]) <br>[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/charlie-dey-0031317a/)[![Twitter](twittericon.png)](https://twitter.com/DeyCharlie) |
 | Christopher Lanclos | [MVSU](https://www.mvsu.edu/) | [Christopher.Lanclos@mvsu.edu](mailto:Christopher.Lanclos@mvsu.edu?subject=[HackHPC-PEARC20]) <br>[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/christopher-lanclos-0a973510/) |
-| Je'aime Powell | [TACC](http://www.tacc.utexas.edu/) | [jpowell@tacc.utexas.edu](mailto:jpowell@tacc.utexas.edu?subject=[HackHPC-PEARC20]) <br>[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/jeaimehp/)[![Twitter](twittericon.png)](https://twitter.com/jeaimehp)[![Github](githubicon.png)](https://github.com/jeaimehp) |
-| Joon Yee Chuah | [TACC](http://www.tacc.utexas.edu/) | [jchuah@tacc.utexas.edu](mailto:jchuah@tacc.utexas.edu?subject=[HackHPC-PEARC20]) <br>[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/jychuah/)[![Github](githubicon.png)](https://github.com/jchuahtacc) |
-| Sudhakar Pamidighantam | [IU](https://www.chem.indiana.edu/) | [s.pamidighantam@gmail.com](mailto:s.pamidighantam@gmail.com?subject=[HackHPC-PEARC20]) <br>[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/sudhakar-pamidighantam-0074a77/)[![Github](githubicon.png)](https://github.com/spamidig) |
+
 
 ## Organizers Contact Information
 
@@ -108,6 +106,7 @@ _Draft Updates In Progress
 - Code of Conduct: [https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct](https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct)
   - [Video](https://youtu.be/4P8sEZDsKaQ)
 - Hack HPC Site: [http://hackhpc.org](http://hackhpc.org)
+- PEARC21 HackHPC Site: [https://jeaimehp.github.io/HackHPC-Pearc21](https://jeaimehp.github.io/HackHPC-Pearc21)
 - PEARC20 HackHPC Site: [https://jeaimehp.github.io/HackHPC-Pearc20](https://jeaimehp.github.io/HackHPC-Pearc20)
 - PEARC20 Conference Site: [https://pearc.acm.org/pearc20/](https://pearc.acm.org/pearc20/)
 - PEARC20 Zoom Session Links (Hackathon): [https://www.brella.io](https://www.brella.io)
