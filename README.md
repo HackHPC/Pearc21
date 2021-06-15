@@ -19,7 +19,7 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
   - [Organizing Committe Contact Information](#organizers-contact-information)
 
 ## Schedule of Events
-_Draft - Updates In Progress
+*Draft - Updates In Progress*
 
 
 - **Mentor Pre-event Training** 6/20/21 @ 9:00am(ET)/8:00am(CT)/6:00am(PT)
@@ -51,7 +51,7 @@ _Draft - Updates In Progress
 ## Communication Platforms
 - Twitter: [twitter.com/ccloudhack](https://twitter.com/ccloudhack)
 - Slack: [cloudhpchack.slack.com](https://cloudhpchack.slack.com)
-- Zoom Session Links (Hackathon): _TBD
+- Zoom Session Links (Hackathon): **TBD**
 
 ## Deliverables
 **Posted to Slack "#pearc21-hackhq-general" Channel before Presentations**
