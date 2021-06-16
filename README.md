@@ -38,14 +38,14 @@ _Draft - Updates In Progress_
 
 | Day | Time | Activities |
 |-----------|:------------------------:|----------------------------|
-| Thursday (6/8) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="_blank">Add to Calendar</a> |  **Kickoff Meeting** <br> • Dice-Breaker <br> • Ethics <br> • Schedule <br> • Google Project Setup <br> • Team Formation |
-| Friday (6/9) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="_blank">Add to Calendar</a> |  **Checkin** <br>  &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br>  &ensp; ‣ Team Theme song <br>  &ensp; ‣ Team Virtual background |
+| Thursday (7/8) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="_blank">Add to Calendar</a> |  **Kickoff Meeting** <br> • Dice-Breaker <br> • Ethics <br> • Schedule <br> • Google Project Setup <br> • Team Formation |
+| Friday (7/9) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="_blank">Add to Calendar</a> |  **Checkin** <br>  &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br>  &ensp; ‣ Team Theme song <br>  &ensp; ‣ Team Virtual background |
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="_blank">Add to Calendar</a> |  **Checkin**  |
-| Saturday (6/10) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="ics_files/SaturdayAM.ics">Add to Calendar</a> |  **Checkin** |
+| Saturday (7/10) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="ics_files/SaturdayAM.ics">Add to Calendar</a> |  **Checkin** |
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="_blank">Add to Calendar</a> |  ~**Checkin**~ |
-| Sunday (6/11) | 12:30p(EST)<br>11:30a(CT)<br>9:30a(PT)<br> <a href="_blank">Add to Calendar</a> |  **Checkin** )  |
+| Sunday (7/11) | 12:30p(EST)<br>11:30a(CT)<br>9:30a(PT)<br> <a href="_blank">Add to Calendar</a> |  **Checkin** )  |
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="_blank">Add to Calendar</a> |  **Checkin** <br> • Final Presentation Reminders |
-| Monday (6/12) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="_blank">Add to Calendar</a> |  **Checkin** |
+| Monday (7/12) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="_blank">Add to Calendar</a> |  **Checkin** |
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="_blank">Add to Calendar</a> |  **Team Presentations and Awards Ceremony**) |
 
 ## Communication Platforms
