@@ -22,7 +22,7 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 _Draft - Updates In Progress_
 
 
-- **Mentor Pre-event Training** 6/20/21 @ 9:00am(ET)/8:00am(CT)/6:00am(PT)
+- **Mentor Pre-event Training** 6/22/21 @ 9:00am(ET)/8:00am(CT)/6:00am(PT)
   - [Prior Meeting Slides](pdfs/Mentor-HackHPC-Overview.pdf)
   - [Prior Meeting Video](https://youtu.be/ROAXB6DCkyQ)
 - **Pre-Event Training (GitHub/Slack)** 6/22/21 @ 10:30am(ET)/9:30am(CT)/7:00am(PT)
