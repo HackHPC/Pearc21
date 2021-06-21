@@ -25,10 +25,10 @@ _Draft - Updates In Progress_
 - **Mentor Pre-event Training** 6/22/21 @ 9:00am(ET)/8:00am(CT)/6:00am(PT)
   - [Prior Meeting Slides](pdfs/Mentor-HackHPC-Overview.pdf)
   - [Prior Meeting Video](https://youtu.be/ROAXB6DCkyQ)
-- **Pre-Event Training (GitHub/Slack)** 6/22/21 @ 10:30am(ET)/9:30am(CT)/7:00am(PT)
+- **Pre-Event Training (GitHub/Slack)** 6/22/21 @ 10:30am(ET)/9:30am(CT)/7:30am(PT)
   - [Prior Meeting Slides](pdfs/Student-HackHPC-Overview.pdf)
   - [Prior Meeting Video](https://youtu.be/x3frTEbp-ZA)
-- **Pre-Event Training (Google Compute Cloud/CloudyCluster)** 6/29/21 @ 10:30am(ET)/9:30am(CT)/7:00am(PT)
+- **Pre-Event Training (Google Compute Cloud/CloudyCluster)** 6/29/21 @ 10:30am(ET)/9:30am(CT)/7:30am(PT)
   - **Links and Resources Mentioned**
      - For access to the _Google Cloud credits_ please contact [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC21]), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC21])
      - [GitHub.com](https://github.com/)
