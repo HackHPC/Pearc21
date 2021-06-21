@@ -19,7 +19,7 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
   - [Organizing Committe Contact Information](#organizers-contact-information)
 
 ## Schedule of Events
-_Zoom connection details are directly sent to registered email addresses. If there is an issue [Please email us with your questions.](mailto:jpowell@tacc.utexas.edu,amycannon@omnibond.com,haydenl@mindspring.com?subject=[HackHPC-PEARC21-Zoom-Link-Problem])  
+Zoom connection details are directly sent to registered email addresses. If there is an issue [Please email us with your questions.](mailto:jpowell@tacc.utexas.edu,amycannon@omnibond.com,haydenl@mindspring.com?subject=[HackHPC-PEARC21-Zoom-Link-Problem])  
 
 
 - **Mentor Pre-event Training** 6/22/21 @ 9:00am(ET)/8:00am(CT)/6:00am(PT)
