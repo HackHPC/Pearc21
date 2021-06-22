@@ -55,7 +55,7 @@ Zoom connection details are directly sent to registered email addresses. If ther
 
 ## Deliverables
 **Posted to Slack "#pearc21-hackhq-general" Channel before Presentations**
-<br><i><font color='red'>Due Monday 6/12 by 6:00p(ET)/5:00p(CT)/3:00p(PT)</font></i>
+<br><i><font color='red'>Due Monday 7/12 by 6:00p(ET)/5:00p(CT)/3:00p(PT)</font></i>
 <br>_*NOTE: If not posted by due date and time 20pt automatic deduction from final judging score._
 
 **Github Repository Link Posted to Slack #pearc20-hackhq-general Channel**
