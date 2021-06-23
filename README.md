@@ -23,16 +23,18 @@ Zoom connection details are directly sent to registered email addresses. If ther
 
 
 - **Mentor Pre-event Training** 6/22/21 @ 9:00am(ET)/8:00am(CT)/6:00am(PT)
-  - [Prior Meeting Slides](pdfs/Mentor-HackHPC-Overview.pdf)
-  - [Prior Meeting Video](https://youtu.be/ROAXB6DCkyQ)
+  - [Slides](Training_Slides/Mentor_Training.pdf)
+  - [Video](https://youtu.be/24gbwytUZdU)
 - **Pre-Event Training (GitHub/Slack)** 6/22/21 @ 10:30am(ET)/9:30am(CT)/7:30am(PT)
-  - [Prior Meeting Slides](pdfs/Student-HackHPC-Overview.pdf)
-  - [Prior Meeting Video](https://youtu.be/x3frTEbp-ZA)
+  - [Slides](Training_Slides/Slack_and_GitHub_Training.pdf)
+  - [Video](https://youtu.be/jPKXjv-LF8w)
 - **Pre-Event Training (Google Compute Cloud/CloudyCluster)** 6/29/21 @ 10:30am(ET)/9:30am(CT)/7:30am(PT)
   - **Links and Resources Mentioned**
      - For access to the _Google Cloud credits_ please contact [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC21]), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC21])
      - [GitHub.com](https://github.com/)
      - [Previous HackHPC Projects](http://hackhpc.org/pasthacks)
+     - [HackHPC Allumni Group](https://www.linkedin.com/groups/8859728/)
+     - [Markdown Live Preview Editor](https://markdownlivepreview.com/)
 
 
 
