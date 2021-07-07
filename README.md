@@ -7,8 +7,7 @@ This site will contain the latest information regarding the event to be held Jul
   <a href="http://www.omnibond.com/">Omnibond</a> |
   <a href="http://www.intel.com">Intel</a> |
   <a href="https://cloud.google.com/">Google</a> |
-  <a href="http://tacc.utexas.edu">TACC</a> |
-  <a href="https://www.globus.org/">Globus Online</a> |
+  <a href="http://tacc.utexas.edu">TACC</a> | |
   <a href="https://sciencegateways.org/">SGCI</a>
 </p>
 
@@ -42,6 +41,7 @@ Zoom connection details are directly sent to registered email addresses. If ther
 |-----------|:------------------------:|----------------------------|
 | Thursday (7/8) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="_blank">Add to Calendar</a> |  **Kickoff Meeting** <br> • Dice-Breaker <br> • Ethics <br> • Schedule <br> • Google Project Setup <br> • Team Formation |
 | Friday (7/9) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="_blank">Add to Calendar</a> |  **Checkin** <br>  &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br>  &ensp; ‣ Team Theme song <br>  &ensp; ‣ Team Virtual background |
+| Friday (7/9) | 10:00a(EST)<br>9:00a(CT)<br>7:00a(PT)<br> <a href="_blank">Add to Calendar</a> | **Judges Only Session** |
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="_blank">Add to Calendar</a> |  **Checkin**  |
 | Saturday (7/10) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="ics_files/SaturdayAM.ics">Add to Calendar</a> |  **Checkin** |
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="_blank">Add to Calendar</a> |  **Checkin** |
