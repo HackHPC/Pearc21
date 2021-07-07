@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Apple Inc.//macOS 11.4//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+DTSTART:20070311T020000
+TZNAME:CDT
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+DTSTART:20071104T020000
+TZNAME:CST
+TZOFFSETTO:-0600
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Chicago:20210709T100000
+ORGANIZER;CN="Powell, Jeaime H":mailto:jpowell@tacc.utexas.edu
+UID:E5A0DF61-A020-4981-8405-53934DD7ACCC
+DTSTAMP:20210707T163932Z
+LOCATION:https://us02web.zoom.us/j/9948923871?pwd=eUYvRnlSQlZvUVN2ajVuY1
+ MzdUlmdz09
+DESCRIPTION:Greetings HackHPC@PEARC21 Judges!\n\n\n\n\n\n\n\nFirst\, tha
+ nk you so very much to willing to give of your time to serve in this cru
+ cial role for the hackathon. We of the organizing committee truly apprec
+ iate you. The purpose of this training session is to provide the basic i
+ nformation you will need as related to the hackathon. This include the f
+ ormat\, forms\, and rubric used for judging. Below you will find links t
+ o prior events to give you an idea about the presentations as well as th
+ e main event page which includes the full schedule.\n\n\n\n\n\n\n\nLINDA
+  HAYDEN is inviting you to a scheduled Zoom meeting.\n\n\n\nTopic: PEARC
+ 21 Hackathon Judges training\n\nTime: Jul 9\, 2021 10:00 AM Eastern Time
+  (US and Canada)\n\n\n\nJoin Zoom Meeting\n\nhttps://us02web.zoom.us/j/9
+ 948923871?pwd=eUYvRnlSQlZvUVN2ajVuY1MzdUlmdz09\n\n\n\nMeeting ID: 994 89
+ 2 3871\n\nPasscode: 056133\n\nOne tap mobile\n\n+13017158592\,\,99489238
+ 71#\,\,\,\,*056133# US (Washington DC)\n\n+13126266799\,\,9948923871#\,\
+ ,\,\,*056133# US (Chicago)\n\n\n\nDial by your location\n\n        +1 30
+ 1 715 8592 US (Washington DC)\n\n        +1 312 626 6799 US (Chicago)\n\
+ n        +1 929 436 2866 US (New York)\n\n        +1 253 215 8782 US (Ta
+ coma)\n\n        +1 346 248 7799 US (Houston)\n\n        +1 669 900 6833
+  US (San Jose)\n\nMeeting ID: 994 892 3871\n\nPasscode: 056133\n\nFind y
+ our local number: https://us02web.zoom.us/u/kdgkflSXvp\n\n\n\n\n\n\n\nRe
+ source Links:\n\n\n\n\n\n\n\nPast Hackathons: http://hackhpc.org/pasthac
+ ks/#content2\n\n\n\nRegistration Link: https://forms.gle/XKzcGerREz1DhLv
+ 49\n\n\n\nEvent Site with Schedule: https://jeaimehp.github.io/HackHPC-P
+ earc21/\n\n\n\nHackHPC Site: http://hackhpc.org/\n\nPEARC21 Site:  https
+ ://pearc.acm.org/pearc21/<https://urldefense.com/v3/__https:/pearc.acm.o
+ rg/pearc21/__\;!!PF9Lxw!uuXxiZf2RvjDRVzebNBh4se98eQLKkkpByNR3yfW9qXmHfrq
+ yrHBcCzd90Y2rPzK$>\n\n\n\n\n\n\n\n\n\n
+SEQUENCE:0
+CONFERENCE;VALUE=URI:
+SUMMARY:[HackHPC@PEARC21] Judges Pre-Training
+DTSTART;TZID=America/Chicago:20210709T090000
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+CREATED:20210707T172225Z
+ATTENDEE;CN="'John D Holly'";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=RE
+ Q-PARTICIPANT:mailto:jholly@sura.org
+ATTENDEE;CN="Alexander Nolte";CUTYPE=INDIVIDUAL;PARTSTAT=NEEDS-ACTION;RO
+ LE=REQ-PARTICIPANT:mailto:alexander.nolte@ut.ee
+ATTENDEE;CN="Amy Cannon";CUTYPE=INDIVIDUAL;PARTSTAT=NEEDS-ACTION;ROLE=RE
+ Q-PARTICIPANT:mailto:amycannon@omnibond.com
+ATTENDEE;CN="Boyd Wilson";CUTYPE=INDIVIDUAL;PARTSTAT=NEEDS-ACTION;ROLE=R
+ EQ-PARTICIPANT:mailto:boyd@omnibond.com
+ATTENDEE;CN="Joonyee Chuah";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ
+ -PARTICIPANT:mailto:jchuah@tacc.utexas.edu
+ATTENDEE;CN="Josh Kissel";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED;ROLE=REQ-P
+ ARTICIPANT:mailto:josh@trafficvision.com
+ATTENDEE;CN="Linda Akli";CUTYPE=INDIVIDUAL;PARTSTAT=DECLINED;ROLE=REQ-PA
+ RTICIPANT:mailto:akli@sura.org
+ATTENDEE;CN="Niall Gaffney";CUTYPE=INDIVIDUAL;PARTSTAT=NEEDS-ACTION;ROLE
+ =REQ-PARTICIPANT:mailto:ngaffney@tacc.utexas.edu
+ATTENDEE;CN="Pinakini Samant";CUTYPE=INDIVIDUAL;PARTSTAT=NEEDS-ACTION;RO
+ LE=REQ-PARTICIPANT:mailto:psamant@tacc.utexas.edu
+ATTENDEE;CN="haydenl@mindspring.com";CUTYPE=INDIVIDUAL;PARTSTAT=NEEDS-AC
+ TION;ROLE=REQ-PARTICIPANT:mailto:haydenl@mindspring.com
+BEGIN:VALARM
+X-WR-ALARMUID:42F27D99-18C8-4739-802C-886A2D074773
+UID:42F27D99-18C8-4739-802C-886A2D074773
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
