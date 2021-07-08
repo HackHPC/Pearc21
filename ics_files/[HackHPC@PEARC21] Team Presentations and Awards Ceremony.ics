@@ -1,0 +1,116 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Apple Inc.//macOS 11.4//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+DTSTART:20070311T020000
+TZNAME:CDT
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+DTSTART:20071104T020000
+TZNAME:CST
+TZOFFSETTO:-0600
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Chicago:20210712T183000
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+ORGANIZER;CN="John Holly":mailto:jholly@sura.org
+UID:0D1B23A2-08AE-4239-9209-17E9B1B64C87
+DTSTAMP:20210707T162321Z
+LOCATION:https://utexas.zoom.us/j/93650961212
+DESCRIPTION:\n\n\n\n\n\nFrom: jholly@sura.org\n\nWhen: 6:00 PM - 7:30 PM
+  July 12\, 2021\n\nSubject: [HackHPC@PEARC21] Team Presentations and Awa
+ rds Ceremony\n\nLocation: https://utexas.zoom.us/j/93650961212\n\n\n\n\n
+ \n\n\n  *   Event Site Schedule - https://jeaimehp.github.io/HackHPC-Pea
+ rc21/\n\n  *   Slack channel share link - https://join.slack.com/share/z
+ t-s3kgilb8-W2D627ZFdG4_2kjITUVjnQ\n\n\n\n[cidimage001.png@01D7730E.8AA9A
+ 8F0]\n\n\n\n  *   https://www.linkedin.com/groups/8859728/\n\n\n\n\n\nDa
+ te\n\n\n\nTime\n\n\n\nActivity\n\n\n\nLink\n\n\n\nTue\, 6/22\n\n\n\n9:00
+ am(ET)/8:00am(CT)/6:00am(PT)\n\n\n\n[HackHPC@PEARC21] Mentor Pre-event T
+ raining\n\n\n\nhttps://utexas.zoom.us/j/98247263304\n\n\n\nTue\, 6/22\n\
+ n\n\n10:30am(ET)/9:30am(CT)/7:00am(PT)\n\n\n\n[HackHPC@PEARC21] Pre-Even
+ t Training (GitHub/Slack)\n\n\n\nTue\, 6/29\n\n\n\n10:30am(ET)/9:30am(CT
+ )/7:00am(PT)\n\n\n\n[HackHPC@PEARC21] Pre-Event Training (Google Compute
+  Cloud/CloudyCluster)\n\n\n\nhttps://utexas.zoom.us/j/99483479920\n\n\n\
+ nThu\, 7/8\n\n\n\n6:00p(ET)/5:00p(CT)/3:00p(PT)\n\n\n\n[HackHPC@PEARC21]
+  Kickoff Meeting\n\n\n\nhttps://utexas.zoom.us/j/96117508836\n\n\n\nFri\
+ , 7/9\n\n\n\n11:00a(ET)/10:00a(CT)/8:00a(PT)\n\n\n\n[HackHPC@PEARC21] Ch
+ eckin\n\n\n\nhttps://utexas.zoom.us/j/91078048407\n\n\n\nFri\, 7/9\n\n\n
+ \n6:00p(ET)/5:00p(CT)/3:00p(PT)\n\n\n\n[HackHPC@PEARC21] Checkin\n\n\n\n
+ Sat\, 7/10\n\n\n\n11:00a(ET)/10:00a(CT)/8:00a(PT)\n\n\n\n[HackHPC@PEARC2
+ 1] Checkin\n\n\n\nhttps://utexas.zoom.us/j/99157704253\n\n\n\nSat\, 7/10
+ \n\n\n\n6:00p(ET)/5:00p(CT)/3:00p(PT)\n\n\n\n[HackHPC@PEARC21] Checkin\n
+ \n\n\nSun\, 7/11\n\n\n\n12:30p(ET)/11:30a(CT)/9:30a(PT)\n\n\n\n[HackHPC@
+ PEARC21] Checkin\n\n\n\nhttps://utexas.zoom.us/j/92040275728\n\n\n\nSun\
+ , 7/11\n\n\n\n6:00p(ET)/5:00p(CT)/3:00p(PT)\n\n\n\n[HackHPC@PEARC21] Che
+ ckin\n\n\n\nMon\, 7/12\n\n\n\n11:00a(ET)/10:00a(CT)/8:00a(PT)\n\n\n\n[Ha
+ ckHPC@PEARC21] Checkin\n\n\n\nhttps://utexas.zoom.us/j/96437853812\n\n\n
+ \nMon\, 7/12\n\n\n\n6:00p(ET)/5:00p(CT)/3:00p(PT)\n\n\n\n[HackHPC@PEARC2
+ 1] Team Presentations and Awards Ceremony\n\n\n\nhttps://utexas.zoom.us/
+ j/93650961212\n\n\n\n\n\n\n\nThis message is from an external sender. Le
+ arn more about why this matters.<https://ut.service-now.com/sp?id=kb_art
+ icle&number=KB0011401>\n\n\n\n
+SEQUENCE:0
+CONFERENCE;VALUE=URI:
+SUMMARY:[HackHPC@PEARC21] Team Presentations and Awards Ceremony
+ATTACH;ENCODING=BASE64;FMTTYPE=image/png;VALUE=BINARY;X-APPLE-EWS-ATTACH
+ MENTID=AAMkADJjNWZlYWFlLTM1ODUtNDcxNS04YzYzLWZiYTM0MWM5MTk5MQBGAAAAAAAW3
+ pij5KqPQKb6P1mXnYBFBwAmqDiM+DedTKBhJWla65l/AAAAAAENAAAmqDiM+DedTKBhJWla6
+ 5l/AAP102glAAABEgAQAIWo/TNF2CtMhMc1HCkAu0s=;X-APPLE-FILENAME=image001.pn
+ g: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
+ TEGAAAAABJRU5ErkJgggAAAAAAAAAA
+DTSTART;TZID=America/Chicago:20210712T170000
+CREATED:20210708T122715Z
+ATTENDEE;CN="Powell, Jeaime H";CUTYPE=INDIVIDUAL;PARTSTAT=NEEDS-ACTION;R
+ OLE=REQ-PARTICIPANT:mailto:jpowell@tacc.utexas.edu
+BEGIN:VALARM
+X-WR-ALARMUID:C29B3A03-77BE-4D7C-B25D-538851FA3153
+UID:C29B3A03-77BE-4D7C-B25D-538851FA3153
+TRIGGER:-PT15M
+DESCRIPTION:Event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
