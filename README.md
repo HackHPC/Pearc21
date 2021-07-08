@@ -47,7 +47,7 @@ Zoom connection details are directly sent to registered email addresses. If ther
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/%5BHackHPC%40PEARC21%5D%20Saturday%20Evening%20Check-in.ics">Add to Calendar</a> |  **Checkin** |
 | Sunday (7/11) | 12:30p(EST)<br>11:30a(CT)<br>9:30a(PT)<br> <a href="ics_files/%5BHackHPC%40PEARC21%5D%20Sunday%20Morning%20Check-in.ics">Add to Calendar</a> |  **Checkin**  |
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/%5BHackHPC%40PEARC21%5D%20Sunday%20Evening%20Check-in.ics">Add to Calendar</a> |  **Checkin** <br> • Final Presentation Reminders |
-| Monday (7/12) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="ics_files/%5BHackHPC%40PEARC21%5D%20Sunday%20Evening%20Check-in.ics">Add to Calendar</a> |  **Checkin** |
+| Monday (7/12) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="%5BHackHPC%40PEARC21%5D%20Monday%20Check-in.ics">Add to Calendar</a> |  **Checkin** |
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/%5BHackHPC%40PEARC21%5D%20Team%20Presentations%20and%20Awards%20Ceremony.ics">Add to Calendar</a> |  **Team Presentations and Awards Ceremony** |
 
 ## Communication Platforms
