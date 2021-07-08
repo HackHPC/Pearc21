@@ -40,7 +40,7 @@ Zoom connection details are directly sent to registered email addresses. If ther
 | Day | Time | Activities |
 |-----------|:------------------------:|----------------------------|
 | Thursday (7/8) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/HackHPC%40Pearc21%20(Kickoff).ics">Add to Calendar</a> |  **Kickoff Meeting** <br> • Dice-Breaker <br> • Ethics <br> • Schedule <br> • Google Project Setup <br> • Team Formation |
-| Friday (7/9) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="_blank">Add to Calendar</a> |  **Checkin** <br>  &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br>  &ensp; ‣ Team Theme song <br>  &ensp; ‣ Team Virtual background |
+| Friday (7/9) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="ics_files/%5BHackHPC%40PEARC21%5D%20Friday%20Morning%20Check-in%20.ics">Add to Calendar</a> |  **Checkin** <br>  &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br>  &ensp; ‣ Team Theme song <br>  &ensp; ‣ Team Virtual background |
 | Friday (7/9) | 10:00a(EST)<br>9:00a(CT)<br>7:00a(PT)<br> <a href="ics_files/[HackHPC@PEARC21]_Judges_Pre-Training.ics">Add to Calendar</a> | **Judges Only Pre-Training Session** |
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="_blank">Add to Calendar</a> |  **Checkin**  |
 | Saturday (7/10) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="ics_files/SaturdayAM.ics">Add to Calendar</a> |  **Checkin** |
