@@ -7,7 +7,8 @@ This site will contain the latest information regarding the event to be held Jul
   <a href="http://www.omnibond.com/">Omnibond</a> |
   <a href="http://www.intel.com">Intel</a> |
   <a href="https://cloud.google.com/">Google</a> |
-  <a href="http://tacc.utexas.edu">TACC</a> | |
+  <a href="http://tacc.utexas.edu">TACC</a> | 
+  <a href="https://www.xsede.org">XSEDE</a>|
   <a href="https://sciencegateways.org/">SGCI</a>
 </p>
 
@@ -39,10 +40,10 @@ Zoom connection details are directly sent to registered email addresses. If ther
 
 | Day | Time | Activities |
 |-----------|:------------------------:|----------------------------|
-| Thursday (7/8) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/HackHPC%40Pearc21%20(Kickoff).ics">Add to Calendar</a> |  **Kickoff Meeting** <br> • Dice-Breaker <br> • Ethics <br> • Schedule <br> • Google Project Setup <br> • Team Formation |
-| Friday (7/9) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="ics_files/%5BHackHPC%40PEARC21%5D%20Friday%20Morning%20Check-in%20.ics">Add to Calendar</a> |  **Checkin** <br>  &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br>  &ensp; ‣ Team Theme song <br>  &ensp; ‣ Team Virtual background |
+| Thursday (7/8) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/HackHPC%40Pearc21%20(Kickoff).ics">Add to Calendar</a> |  **Kickoff Meeting** [Video](https://youtu.be/LhS-fRc5mmk) <br> • Dice-Breaker <br> • Ethics <br> • Schedule <br> • Google Project Setup <br> • Team Formation |
+| Friday (7/9) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="ics_files/%5BHackHPC%40PEARC21%5D%20Friday%20Morning%20Check-in%20.ics">Add to Calendar</a> |  **Checkin** <br>  &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br>  &ensp; ‣ Team Theme song <br>  &ensp; ‣ Team Virtual background <br> **Team Introductions Winner - Cash Captains |
 | Friday (7/9) | 10:00a(EST)<br>9:00a(CT)<br>7:00a(PT)<br> <a href="ics_files/[HackHPC@PEARC21]_Judges_Pre-Training.ics">Add to Calendar</a> | **Judges Only Pre-Training Session** |
-|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/%5BHackHPC%40PEARC21%5D%20Friday%20Evening%20Check-in.ics">Add to Calendar</a> |  **Checkin**  |
+|  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/%5BHackHPC%40PEARC21%5D%20Friday%20Evening%20Check-in.ics">Add to Calendar</a> |  **Checkin** <br> _Team Goal Presentation_ <br> &ensp; ‣ 1 Slide <br>  &ensp; ‣ Team name <br>  &ensp; ‣ Team members including Mentor <br> &ensp; ‣ Team Goal(s) <br> &ensp; ‣ at least 2 tasks to be completed by Saturady Evening Checkin|
 | Saturday (7/10) | 11:00a(EST)<br>10:00a(CT)<br>8:00a(PT)<br> <a href="ics_files/%5BHackHPC%40PEARC21%5D%20Saturday%20Morning%20Check-in.ics">Add to Calendar</a> |  **Checkin** |
 |  | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT)<br> <a href="ics_files/%5BHackHPC%40PEARC21%5D%20Saturday%20Evening%20Check-in.ics">Add to Calendar</a> |  **Checkin** |
 | Sunday (7/11) | 12:30p(EST)<br>11:30a(CT)<br>9:30a(PT)<br> <a href="ics_files/%5BHackHPC%40PEARC21%5D%20Sunday%20Morning%20Check-in.ics">Add to Calendar</a> |  **Checkin**  |
