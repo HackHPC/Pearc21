@@ -20,12 +20,18 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 
 ## Projects and Mentor Information
 
-- **Cash Captains** - [Initial Picts and Pitch](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/cash-captains), [Josselyn](https://www.linkedin.com/in/josselyn-salgado-09b582187/)(_Mentor_), Pinakini(_Co-Mentor_)
-- **Masked Anxed** - [Initial Picts and Pitch](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/masked-anxed), [JerNettie](https://www.linkedin.com/in/jaburney/)(_Mentor_), Josh(_Co-Mentor_)
-- **Render Benders** - [Initial Picts and Pitch](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/render-benders), [Rich](https://www.linkedin.com/in/richasay/)(_Mentor_), Chris(_Co-Mentor_)
-- **Sesame Street Team** - [Initial Picts and Pitch](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/sesame-street-team), [Charlie](https://www.linkedin.com/in/charlie-dey-0031317a/)(_Mentor_), Marcus(_Co-Mentor_)
-- **The Final Straw** - [Initial Picts and Pitch](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/the-final-straw), [Cesar](https://www.linkedin.com/in/cesar-monsalud/)(_Mentor_), John(_Co-Mentor_)
-- **Valiant Vaccinators** - [Initial Picts and Pitch](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/valiant-vaccinators), [Munene](https://www.linkedin.com/in/munene-kanampiu-4973752a/)(_Mentor_), James/Rebecca(_Co-Mentor_)
+- **Cash Captains** - [Josselyn](https://www.linkedin.com/in/josselyn-salgado-09b582187/)(_Mentor_), Pinakini(_Co-Mentor_)
+  - [Initial Picts and Pitch](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/cash-captains) 
+- **Masked Anxed** - [JerNettie](https://www.linkedin.com/in/jaburney/)(_Mentor_), Josh(_Co-Mentor_)
+  - [Initial Picts and Pitch](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/masked-anxed)
+- **Render Benders** - [Rich](https://www.linkedin.com/in/richasay/)(_Mentor_), Chris(_Co-Mentor_)
+  - [Initial Picts and Pitch](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/render-benders)
+- **Sesame Street Team** - [Charlie](https://www.linkedin.com/in/charlie-dey-0031317a/)(_Mentor_), Marcus(_Co-Mentor_)
+  - [Initial Picts and Pitch](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/sesame-street-team),  
+- **The Final Straw** - [Cesar](https://www.linkedin.com/in/cesar-monsalud/)(_Mentor_), John(_Co-Mentor_)
+  - [Initial Picts and Pitch](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/the-final-straw) 
+- **Valiant Vaccinators** - [Munene](https://www.linkedin.com/in/munene-kanampiu-4973752a/)(_Mentor_), James/Rebecca(_Co-Mentor_)
+  - [Initial Picts and Pitch](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/valiant-vaccinators)
 
 ## Schedule of Events
 Zoom connection details are directly sent to registered email addresses. If there is an issue [Please email us with your questions.](mailto:jpowell@tacc.utexas.edu,amycannon@omnibond.com,haydenl@mindspring.com?subject=[HackHPC-PEARC21-Zoom-Link-Problem])  
