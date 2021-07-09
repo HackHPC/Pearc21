@@ -87,12 +87,14 @@ Zoom connection details are directly sent to registered email addresses. If ther
   - [https://cloud.google.com/training](https://cloud.google.com/training)
   - For access to the Google Cloud credits please contact [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20]), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20])
 
-## Mentor Contact Information
+## Projects and Mentor Information
 
-| Name | Affiliation | Contact Information
-|-----------------------|--------------|----------------------------|
-| Charlie Dey | [TACC](http://www.tacc.utexas.edu/) | [charlie@tacc.utexas.edu](mailto:charlie@tacc.utexas.edu?subject=[HackHPC-PEARC20]) <br>[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/charlie-dey-0031317a/)[![Twitter](twittericon.png)](https://twitter.com/DeyCharlie) |
-| Christopher Lanclos | [MVSU](https://www.mvsu.edu/) | [Christopher.Lanclos@mvsu.edu](mailto:Christopher.Lanclos@mvsu.edu?subject=[HackHPC-PEARC20]) <br>[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/christopher-lanclos-0a973510/) |
+- **Cash Captains** - [Josselyn](https://www.linkedin.com/in/josselyn-salgado-09b582187/)-Mentor
+- **Masked Anxed** - [JerNettie](https://www.linkedin.com/in/jaburney/)-Mentor
+- **Render Benders** - [Rich](https://www.linkedin.com/in/richasay/)-Mentor
+- **Sesame Street Team** - [Charlie](https://www.linkedin.com/in/charlie-dey-0031317a/)-Mentor
+- **The Final Straw** - [Cesar](https://www.linkedin.com/in/cesar-monsalud/)-Mentor
+- **Valiant Vaccinators** - [Munene](https://www.linkedin.com/in/munene-kanampiu-4973752a/)-Mentor
 
 
 ## Organizers Contact Information
