@@ -29,6 +29,7 @@ Zoom connection details are directly sent to registered email addresses. If ther
   - [Slides](Training_Slides/Slack_and_GitHub_Training.pdf)
   - [Video](https://youtu.be/jPKXjv-LF8w)
 - **Pre-Event Training (Google Compute Cloud/CloudyCluster)** 6/29/21 @ 10:30am(ET)/9:30am(CT)/7:30am(PT)
+  - [Video](https://youtu.be/JM9tFqujfvw) 
   - **Links and Resources Mentioned**
      - For access to the _Google Cloud credits_ please contact [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC21]), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC21])
      - [GitHub.com](https://github.com/)
