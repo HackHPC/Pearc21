@@ -18,6 +18,15 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
   - [Video Presentation](https://youtu.be/rOdVImeWQnI)
   - [Organizing Committe Contact Information](#organizers-contact-information)
 
+## Projects and Mentor Information
+
+- **Cash Captains** - [Josselyn](https://www.linkedin.com/in/josselyn-salgado-09b582187/)(_Mentor_), Pinakini(_Co-Mentor_)
+- **Masked Anxed** - [JerNettie](https://www.linkedin.com/in/jaburney/)(_Mentor_), Josh(_Co-Mentor_)
+- **Render Benders** - [Rich](https://www.linkedin.com/in/richasay/)(_Mentor_), Chris(_Co-Mentor_)
+- **Sesame Street Team** - [Charlie](https://www.linkedin.com/in/charlie-dey-0031317a/)(_Mentor_), Marcus(_Co-Mentor_)
+- **The Final Straw** - [Cesar](https://www.linkedin.com/in/cesar-monsalud/)(_Mentor_), John(_Co-Mentor_)
+- **Valiant Vaccinators** - [Munene](https://www.linkedin.com/in/munene-kanampiu-4973752a/)(_Mentor_), James/Rebecca(_Co-Mentor_)
+
 ## Schedule of Events
 Zoom connection details are directly sent to registered email addresses. If there is an issue [Please email us with your questions.](mailto:jpowell@tacc.utexas.edu,amycannon@omnibond.com,haydenl@mindspring.com?subject=[HackHPC-PEARC21-Zoom-Link-Problem])  
 
@@ -87,14 +96,6 @@ Zoom connection details are directly sent to registered email addresses. If ther
   - [https://cloud.google.com/training](https://cloud.google.com/training)
   - For access to the Google Cloud credits please contact [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20]), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20])
 
-## Projects and Mentor Information
-
-- **Cash Captains** - [Josselyn](https://www.linkedin.com/in/josselyn-salgado-09b582187/)-Mentor
-- **Masked Anxed** - [JerNettie](https://www.linkedin.com/in/jaburney/)-Mentor
-- **Render Benders** - [Rich](https://www.linkedin.com/in/richasay/)-Mentor
-- **Sesame Street Team** - [Charlie](https://www.linkedin.com/in/charlie-dey-0031317a/)-Mentor
-- **The Final Straw** - [Cesar](https://www.linkedin.com/in/cesar-monsalud/)-Mentor
-- **Valiant Vaccinators** - [Munene](https://www.linkedin.com/in/munene-kanampiu-4973752a/)-Mentor
 
 
 ## Organizers Contact Information
