@@ -4,7 +4,7 @@ This site will contain the latest information regarding the event to be held Jul
 
 <p align="center">
   <strong>Special thanks to this years sponsors!</strong><br>
-  [![Sponsors]("sponsor_logos/sponsors_banner.png")
+  ![Sponsors]("sponsor_logos/sponsors_banner.png")
   <a href="http://www.omnibond.com/">Omnibond</a> |
   <a href="http://www.intel.com">Intel</a> |
   <a href="https://cloud.google.com/">Google</a> |
