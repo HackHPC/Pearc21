@@ -20,18 +20,24 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 
 ## Projects and Mentor Information
 
-- **Cash Captains** - [Josselyn](https://www.linkedin.com/in/josselyn-salgado-09b582187/)(_Mentor_), Pinakini(_Co-Mentor_)
-  - [Initial Picts and Pitch](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/cash-captains) 
-- **Masked Anxed** - [JerNettie](https://www.linkedin.com/in/jaburney/)(_Mentor_), Josh(_Co-Mentor_)
-  - [Initial Picts and Pitch](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/masked-anxed)
-- **Render Benders** - [Rich](https://www.linkedin.com/in/richasay/)(_Mentor_), Chris(_Co-Mentor_)
-  - [Initial Picts and Pitch](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/render-benders)
-- **Sesame Street Team** - [Charlie](https://www.linkedin.com/in/charlie-dey-0031317a/)(_Mentor_), Marcus(_Co-Mentor_)
-  - [Initial Picts and Pitch](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/sesame-street-team),  
-- **The Final Straw** - [Cesar](https://www.linkedin.com/in/cesar-monsalud/)(_Mentor_), John(_Co-Mentor_)
-  - [Initial Picts and Pitch](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/the-final-straw) 
-- **Valiant Vaccinators** - [Munene](https://www.linkedin.com/in/munene-kanampiu-4973752a/)(_Mentor_), James/Rebecca(_Co-Mentor_)
-  - [Initial Picts and Pitch](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/valiant-vaccinators)
+- **Cash Captains** - Josselyn(_Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/josselyn-salgado-09b582187/), Pinakini(_Co-Mentor_)
+  - GitHub Repo 
+  - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/cash-captains) 
+- **Masked Anxed** - JerNettie(_Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/jaburney/), Josh(_Co-Mentor_)
+  - GitHub Repo
+  - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/masked-anxed)
+- **Render Benders** - Rich(_Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/richasay/), Chris(_Co-Mentor_)
+  - GitHub Repo
+  - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/render-benders)
+- **Sesame Street Team** - Charlie(_Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/charlie-dey-0031317a/), Marcus(_Co-Mentor_)
+  - GitHub Repo
+  - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/sesame-street-team)  
+- **The Final Straw** - Cesar(_Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/cesar-monsalud/), John(_Co-Mentor_)
+  - GitHub Repo
+  - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/the-final-straw) 
+- **Valiant Vaccinators** - Munene(_Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/munene-kanampiu-4973752a/), James/Rebecca(_Co-Mentor_)
+  - GitHub Repo
+  - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/valiant-vaccinators)
 
 ## Schedule of Events
 Zoom connection details are directly sent to registered email addresses. If there is an issue [Please email us with your questions.](mailto:jpowell@tacc.utexas.edu,amycannon@omnibond.com,haydenl@mindspring.com?subject=[HackHPC-PEARC21-Zoom-Link-Problem])  
@@ -121,8 +127,6 @@ Zoom connection details are directly sent to registered email addresses. If ther
 - Hack HPC Site: [http://hackhpc.org](http://hackhpc.org)
 - PEARC21 HackHPC Site: [https://jeaimehp.github.io/HackHPC-Pearc21](https://jeaimehp.github.io/HackHPC-Pearc21)
 - PEARC20 HackHPC Site: [https://jeaimehp.github.io/HackHPC-Pearc20](https://jeaimehp.github.io/HackHPC-Pearc20)
-- PEARC20 Conference Site: [https://pearc.acm.org/pearc20/](https://pearc.acm.org/pearc20/)
-- PEARC20 Zoom Session Links (Hackathon): [https://www.brella.io](https://www.brella.io)
 - SGCI URL: [http://sciencegateways.org/engage/hackathon](http://sciencegateways.org/engage/hackathon)
 - Hackathon Planning Kit: [https://hackathon-planning-kit.org/](https://hackathon-planning-kit.org/)
 - For access to the Google Cloud credits please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20]) , [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20]), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20])
