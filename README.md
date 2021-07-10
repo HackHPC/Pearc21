@@ -20,22 +20,22 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 
 ## Projects and Mentor Information
 
-- **Cash Captains** - Josselyn(_Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/josselyn-salgado-09b582187/), Pinakini(_Co-Mentor_)
+- **Cash Captains** - Josselyn(_Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/josselyn-salgado-09b582187/), Pinakini(_Co-Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/pinakini-samant/)
   - GitHub Repo 
   - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/cash-captains) 
-- **Masked Anxed** - JerNettie(_Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/jaburney/), Josh(_Co-Mentor_)
+- **Masked Anxed** - JerNettie(_Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/jaburney/), Josh(_Co-Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/joshua-kissel-201a4895/)
   - GitHub Repo
   - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/masked-anxed)
-- **Render Benders** - Rich(_Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/richasay/), Chris(_Co-Mentor_)
+- **Render Benders** - Rich(_Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/richasay/), Chris(_Co-Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/mwlite/in/christopher-lanclos-0a973510)
   - GitHub Repo
   - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/render-benders)
-- **Sesame Street Team** - Charlie(_Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/charlie-dey-0031317a/), Marcus(_Co-Mentor_)
+- **Sesame Street Team** - Charlie(_Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/charlie-dey-0031317a/), Marcus(_Co-Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/marcus-golden-34783028/)
   - GitHub Repo
   - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/sesame-street-team)  
-- **The Final Straw** - Cesar(_Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/cesar-monsalud/), John(_Co-Mentor_)
+- **The Final Straw** - Cesar(_Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/cesar-monsalud/), John(_Co-Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/john-holly-7264a4b/)
   - GitHub Repo
   - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/the-final-straw) 
-- **Valiant Vaccinators** - Munene(_Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/munene-kanampiu-4973752a/), James/Rebecca(_Co-Mentor_)
+- **Valiant Vaccinators** - Munene(_Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/munene-kanampiu-4973752a/), James/Rebecca(_Co-Mentor_)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/james-belton-2934226/)[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/rebecca-caldwell-0434256/)
   - GitHub Repo
   - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/valiant-vaccinators)
 
