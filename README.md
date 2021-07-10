@@ -24,9 +24,9 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 - **Cash Captains** - Josselyn(_Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/josselyn-salgado-09b582187/), Pinakini(_Co-Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/pinakini-samant/)
   - GitHub Repo 
   - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/cash-captains) 
-- **Masked Anxed** - JerNettie(_Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/jaburney/), Josh(_Co-Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/joshua-kissel-201a4895/)
+- **Masked Angst** - JerNettie(_Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/jaburney/), Josh(_Co-Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/joshua-kissel-201a4895/)
   - GitHub Repo
-  - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/masked-anxed)
+  - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/masked-angst)
 - **Render Benders** - Rich(_Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/richasay/), Chris(_Co-Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/mwlite/in/christopher-lanclos-0a973510)
   - GitHub Repo
   - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/render-benders)
