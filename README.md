@@ -35,7 +35,7 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 - **The Final Straw** - Cesar(_Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/cesar-monsalud/), John(_Co-Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/john-holly-7264a4b/)
   - GitHub Repo
   - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/the-final-straw) 
-- **Valiant Vaccinators** - Munene(_Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/munene-kanampiu-4973752a/), James/Rebecca(_Co-Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/james-belton-2934226/)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/rebecca-caldwell-0434256/)
+- **Valiant Vaccinators** - Munene(_Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/munene-kanampiu-4973752a/), James/Rebecca(_Co-Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/james-belton-2934226/)/[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/rebecca-caldwell-0434256/)
   - GitHub Repo
   - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/valiant-vaccinators)
 
