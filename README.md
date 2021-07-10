@@ -18,7 +18,7 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
   - [Video Presentation](https://youtu.be/rOdVImeWQnI)
   - [Organizing Committe Contact Information](#organizers-contact-information)
 
-## Projects and Mentor Information
+## Project and Mentor Information
 
 - **Cash Captains** - Josselyn(_Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/josselyn-salgado-09b582187/), Pinakini(_Co-Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/pinakini-samant/)
   - GitHub Repo 
