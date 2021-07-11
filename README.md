@@ -1,7 +1,9 @@
 ## HackHPC@PEARC21 Event Site
 
 This site will contain the latest information regarding the event to be held July 8th-12th.
+### [Event Screen Shots](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/event-screenshots)
 
+## Event Sponsors
 <p align="center">
   <strong>Special thanks to this years sponsors!</strong><br>
   <img src="sponsor_logos/sponsors_banner.png"><br>
