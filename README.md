@@ -125,7 +125,7 @@ Zoom connection details are directly sent to registered email addresses. If ther
 ## Resources
 - Code of Conduct: [https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct](https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct)
   - [Video](https://youtu.be/4P8sEZDsKaQ)
-- [Event Screen Shots](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/event-screenshots)
+- _Event Screen Shots_: [https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/event-screenshots](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/event-screenshots)
 - Hack HPC Site: [http://hackhpc.org](http://hackhpc.org)
 - PEARC21 HackHPC Site: [https://jeaimehp.github.io/HackHPC-Pearc21](https://jeaimehp.github.io/HackHPC-Pearc21)
 - PEARC20 HackHPC Site: [https://jeaimehp.github.io/HackHPC-Pearc20](https://jeaimehp.github.io/HackHPC-Pearc20)
