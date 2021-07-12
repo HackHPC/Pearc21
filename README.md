@@ -2,6 +2,8 @@
 
 This site will contain the latest information regarding the event to be held July 8th-12th.
 
+**Final Presentations** [[YouTube Stream]](https://studio.youtube.com/video/YJ-j_sTo9hU/livestreaming)[[Viewer's Choice Voting]](https://forms.gle/ixYxQ8umb6SXXzR87)
+
 ## Event Sponsors
 <p align="center">
   <strong>Special thanks to this years sponsors!</strong><br>
@@ -84,10 +86,11 @@ Zoom connection details are directly sent to registered email addresses. If ther
 <br><i><font color='red'>Due Monday 7/12 by 6:00p(ET)/5:00p(CT)/3:00p(PT)</font></i>
 <br>_*NOTE: If not posted by due date and time 20pt automatic deduction from final judging score._
 
-**Github Repository Link Posted to Slack #pearc20-hackhq-general Channel**
+**Github Repository Link Posted to Slack #pearc21-hackhq-general Channel**
 - Source code Including Comments
 - PDF of presentation
   - Team members with pictures
+  - Use of HPC technology in the project
   - Github Link
 - README.md project description
 
