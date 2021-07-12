@@ -26,22 +26,28 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
 ## Project and Mentor Information
 
 - **Cash Captains** - Josselyn(_Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/josselyn-salgado-09b582187/), Pinakini(_Co-Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/pinakini-samant/)
-  - GitHub Repo 
+  - [GitHub Repo](https://github.com/cherithkay/cash-captains)
+  - Intro Video - 
   - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/cash-captains) 
 - **Masked Angst** - JerNettie(_Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/jaburney/), Josh(_Co-Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/joshua-kissel-201a4895/)
-  - GitHub Repo
+  - [GitHub Repo](https://github.com/chidinmac/Masked-Angst)
+  - [Intro Video](https://youtu.be/RlYPufDVSEQ)
   - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/masked-angst)
 - **Render Benders** - Rich(_Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/richasay/), Chris(_Co-Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/mwlite/in/christopher-lanclos-0a973510)
-  - GitHub Repo
+  - [GitHub Repo](https://github.com/rollercoaster111/renderbenders)
+  - [Intro Video](https://youtu.be/SPmVqPoaVkQ)
   - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/render-benders)
 - **Sesame Street Team** - Charlie(_Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/charlie-dey-0031317a/), Marcus(_Co-Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/marcus-golden-34783028/)
-  - GitHub Repo
+  - [GitHub Repo](https://github.com/le-n-qui/redistricting_sesame_street/tree/main)
+  - Intro Video - 
   - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/sesame-street-team)  
 - **The Final Straw** - Cesar(_Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/cesar-monsalud/), John(_Co-Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/john-holly-7264a4b/)
-  - GitHub Repo
+  - [GitHub Repo](https://github.com/cesarmonsalud/drawstraws)
+  - [Intro Video](https://youtu.be/TBF_vwuMC34)
   - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/the-final-straw) 
 - **Valiant Vaccinators** - Munene(_Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/munene-kanampiu-4973752a/), James/Rebecca(_Co-Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/james-belton-2934226/)/[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/rebecca-caldwell-0434256/)
-  - GitHub Repo
+  - [GitHub Repo](https://github.com/abhi-vinnakota/ValiantVaccinators)
+  - [Intro Video](https://youtu.be/L1EWsE66XhY)
   - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/valiant-vaccinators)
 
 ## Schedule of Events
