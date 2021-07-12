@@ -39,7 +39,7 @@ _All attendees, sponsors, partners, volunteers and staff at our hackathon are re
   - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/render-benders)
 - **Sesame Street Team** - Charlie(_Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/charlie-dey-0031317a/), Marcus(_Co-Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/marcus-golden-34783028/)
   - [GitHub Repo](https://github.com/le-n-qui/redistricting_sesame_street/tree/main)
-  - Intro Video - 
+  - [Intro Video](https://youtu.be/AfeC8Lyzmvk) 
   - [Pics and Mini-Presentations](https://github.com/jeaimehp/HackHPC-Pearc21/tree/master/teams/sesame-street-team)  
 - **The Final Straw** - Cesar(_Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/cesar-monsalud/), John(_Co-Mentor_)[![LinkedIn](sm_linkedinicon.jpeg)](https://www.linkedin.com/in/john-holly-7264a4b/)
   - [GitHub Repo](https://github.com/cesarmonsalud/drawstraws)
